@@ -9,4 +9,6 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/alexispaques) for Fr
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexisTM&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexisTM
+[![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AlexisTM)](https://profile.codersrank.io/user/alexistm/)
+
+

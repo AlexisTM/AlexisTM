@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Alexis Paques. I'm a versatile Robotics engineer (Drone, AGVs, Mowers, ...), developing embedded, Linux, and Web projects, in C++, Python, Rust and Javascript, with developer, architect and manager experience.
+I'm Alexis Paques. I'm a versatile Robotics engineer (Drone, AGVs, Mowers, ...), developing embedded, Linux, and Web projects, in C++, Python, Rust and Javascript, with developer, architect and manager experience.
 
 BTW, did I tell you Rust is cool? I have a Rust server running on Arch at home! 
 
